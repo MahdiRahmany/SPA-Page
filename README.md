@@ -13,3 +13,5 @@ npm install
 ```bash
 node server.js
 ```
+
+then run `localhost:5000` in browser.

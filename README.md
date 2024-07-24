@@ -1,8 +1,7 @@
 # SPA-Page
 
 # Installation & Run
- 
-cbcb
+
 <hr>
 
 ```bash
